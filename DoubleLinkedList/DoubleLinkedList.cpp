@@ -25,5 +25,6 @@ public:
 };
 
 void DoubleLinkedList::addNode() {
-
+	int nim;
+	string nm;
 }
