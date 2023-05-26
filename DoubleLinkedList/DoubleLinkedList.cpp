@@ -20,4 +20,6 @@ public:
 	bool listEmpty();
 	void traverse();
 	void retraverse();
+	void hapus();
+	void searchData();
 };
